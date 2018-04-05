@@ -9,6 +9,7 @@ namespace LoginApp.Controllers
     public class LoginController : Controller
     {
         // GET: Login
+        // Ashfaq testing
         public ActionResult Index()
         {
             return View();
